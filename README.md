@@ -12,10 +12,3 @@ Python for programming.
 OpenCV for image processing and LBPH facial recognition.
 SQLite for database management.
 Tkinter for GUI development.
-Installation
-Clone the repository: git clone https://github.com/yourusername/attendance-system-lbph.git
-Install the required Python packages: pip install -r requirements.txt
-Usage
-Run the main.py script to start the attendance system.
-Use the GUI to add new faces to the database and start the attendance recording.
-View attendance records and reports using the GUI interface.
